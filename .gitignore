@@ -1,2 +1,10 @@
 .venv/ 
 gazeta/ 
+.venv/ 
+__pycache__/ 
+gazeta/ 
+annot.opcorpora.xml.bz2 
+best_params.json 
+dict.opcorpora.xml.bz2 
+dictionary.txt 
+lab1_model.pkl 
